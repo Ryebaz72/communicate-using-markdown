@@ -25,3 +25,7 @@ http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
 	if err != nil {
 		log.Fatal(err)
   ```
+
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
